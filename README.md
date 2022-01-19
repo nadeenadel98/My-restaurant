@@ -1,2 +1,2 @@
 # My-restaurant
-![framework](C:\Users\DELL\Documents\My-restaurant\image\resturent.png)
+![framework](/mnt/c/Users/DELL/Documents/My-restaurant/image/resturent.PNG)
